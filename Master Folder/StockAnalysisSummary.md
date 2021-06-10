@@ -8,7 +8,7 @@ Honing in on one's investment skills can seem daunting, however with stock anlys
 
 ## Summary of Results
 
-We found based on our Monte Carlo simulation, there's a 95% chance an initial investment of $10,000 in BABA over the next year will end within in the range of $3,776.86 and $96,441.37; in DIS over the next year will end within in the range of $7,703.55 and $51,250.86; in TSLA over the next year will end within in the range of $1,214.95 and $75,1289.56; in SPY over the next year will end within in the range of $4,758.51 and $69,339.08. Based on these results BABA and TSLA show to be out performing SPY.
+We found based on our Monte Carlo simulation, there's a 95% chance an initial investment of $10,000 in BABA over the next year will end within in the range of $3,776.86 and $96,441.37; in DIS over the next year will end within in the range of $7,703.55 and $51,250.86; in TSLA over the next year will end within in the range of $1,214.95 and $75,128.56; in SPY over the next year will end within in the range of $4,758.51 and $69,339.08. Based on these results BABA and TSLA show to be out performing SPY.
 
 Based on our theoretical investor, BABA is the best choice with the highest return. By performing the Squeez on BABA we discovered, our entry point to buy and when to sell. All detailed analysis and visualizations are provided in a corresponding Master.ipynb file.
 
